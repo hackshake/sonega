@@ -1,0 +1,76 @@
+#main_heading_home
+{
+	padding-top: 10px;
+	padding-left: 60px;
+}
+#slideshow
+{
+	height: 500px;
+	width: 680px;
+	border-radius: 5%;
+	margin-top: 25px;
+	margin-left: 50px;
+}
+#login
+{
+	float: right;
+	width: 400px;
+	margin-right: 100px;
+	text-align: center;
+}
+#home_dp
+{
+	height: 200px;
+	width: 200px;
+	/*border-radius: 5%;*/
+}
+#searchId
+{
+  width: 320px;
+  margin-top: 10px;
+}
+#button_id
+{
+  text-align: right;
+  color: black;
+  display: block;
+  margin-top: 10px;
+}
+#livesearch
+{
+  border-radius: 0px 0px 5px 5px;
+  z-index: 999;
+  position: absolute;
+  background-color: #D8D2D2;
+}
+#filters
+{
+	padding-left: 40px;
+	/*border-right: 1px dashed;*/
+	width: 20%;
+	height: 500px;
+	overflow: scroll;
+	float: left;
+}
+#filter_results
+{
+	width: 80%;
+	margin-left: 20%;
+}
+#thumbnail
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 5px;
+}
+#thumbnail_big
+{
+	height: 80px;
+	width: 80px;
+	border-radius: 5px;
+}
+#formDiv
+{
+	width: 80%;
+	margin-left: 20%;
+}
